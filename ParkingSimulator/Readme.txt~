@@ -1,0 +1,19 @@
+Farzal Khan
+101045962
+
+List of files:
+- parkingSimulator.c
+- simulator2.c
+- Readme.txt
+
+Instructions to run program:
+For parkingSimulator.c
+gcc -o file parkingSimulator.c
+./file
+
+For simulator2.c
+gcc -o file2 simulator2.c
+./file2
+
+Issues
+- Tried for many hours to resolve memory leak problem, however did not free up all memory.
